@@ -2,3 +2,7 @@
 Proyecto Final de Programacion Web con nuestro Docente Daniel Parra.
 
 Esta es una pagina web alojada en el servidor de infinityfree, esta pagina web es de una libreria donde utilizamos Bootstrap y php para conectarnos a la base de datos mediante laragon.
+
+Pagina en Servidor Remoto:
+
+https://libreriaprog-web.great-site.net/index.php
